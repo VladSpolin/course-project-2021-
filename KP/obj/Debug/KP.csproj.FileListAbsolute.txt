@@ -1,0 +1,16 @@
+C:\Users\spoli\Desktop\Курсач\KP\KP\bin\Debug\KP.exe.config
+C:\Users\spoli\Desktop\Курсач\KP\KP\bin\Debug\KP.exe
+C:\Users\spoli\Desktop\Курсач\KP\KP\bin\Debug\KP.pdb
+C:\Users\spoli\Desktop\Курсач\KP\KP\obj\Debug\KP.csproj.AssemblyReference.cache
+C:\Users\spoli\Desktop\Курсач\KP\KP\obj\Debug\KP.csproj.SuggestedBindingRedirects.cache
+C:\Users\spoli\Desktop\Курсач\KP\KP\obj\Debug\KP.Form1.resources
+C:\Users\spoli\Desktop\Курсач\KP\KP\obj\Debug\KP.Properties.Resources.resources
+C:\Users\spoli\Desktop\Курсач\KP\KP\obj\Debug\KP.csproj.GenerateResource.cache
+C:\Users\spoli\Desktop\Курсач\KP\KP\obj\Debug\KP.csproj.CoreCompileInputs.cache
+C:\Users\spoli\Desktop\Курсач\KP\KP\obj\Debug\KP.exe
+C:\Users\spoli\Desktop\Курсач\KP\KP\obj\Debug\KP.pdb
+C:\Users\spoli\Desktop\Курсач\KP\KP\obj\Debug\KP.MainForm.resources
+C:\Users\spoli\Desktop\Курсач\KP\KP\obj\Debug\KP.RegistrationForm.resources
+C:\Users\spoli\Desktop\Курсач\KP\KP\bin\Debug\Database1.mdf
+C:\Users\spoli\Desktop\Курсач\KP\KP\bin\Debug\Database1_log.ldf
+C:\Users\spoli\Desktop\Курсач\KP\KP\obj\Debug\KP.AdminForm.resources

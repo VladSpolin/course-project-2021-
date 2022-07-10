@@ -1,0 +1,12 @@
+C:\Users\spoli\Desktop\Курсач\сервер\server\Host\bin\Debug\Host.exe.config
+C:\Users\spoli\Desktop\Курсач\сервер\server\Host\bin\Debug\Host.exe
+C:\Users\spoli\Desktop\Курсач\сервер\server\Host\bin\Debug\Host.pdb
+C:\Users\spoli\Desktop\Курсач\сервер\server\Host\bin\Debug\server.dll
+C:\Users\spoli\Desktop\Курсач\сервер\server\Host\bin\Debug\server.pdb
+C:\Users\spoli\Desktop\Курсач\сервер\server\Host\bin\Debug\server.dll.config
+C:\Users\spoli\Desktop\Курсач\сервер\server\Host\obj\Debug\Host.csproj.AssemblyReference.cache
+C:\Users\spoli\Desktop\Курсач\сервер\server\Host\obj\Debug\Host.csproj.SuggestedBindingRedirects.cache
+C:\Users\spoli\Desktop\Курсач\сервер\server\Host\obj\Debug\Host.csproj.CoreCompileInputs.cache
+C:\Users\spoli\Desktop\Курсач\сервер\server\Host\obj\Debug\Host.csproj.CopyComplete
+C:\Users\spoli\Desktop\Курсач\сервер\server\Host\obj\Debug\Host.exe
+C:\Users\spoli\Desktop\Курсач\сервер\server\Host\obj\Debug\Host.pdb

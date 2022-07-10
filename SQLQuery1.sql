@@ -1,0 +1,1 @@
+﻿INSERT INTO ClientTable (Login, FIO, Card, Password) VALUES ('Admin', N'Оскерко Владислав Сергеевич','12345678', '1111')

@@ -1,0 +1,7 @@
+C:\Users\spoli\Desktop\Курсач\сервер\server\server\bin\Debug\server.dll.config
+C:\Users\spoli\Desktop\Курсач\сервер\server\server\bin\Debug\server.dll
+C:\Users\spoli\Desktop\Курсач\сервер\server\server\bin\Debug\server.pdb
+C:\Users\spoli\Desktop\Курсач\сервер\server\server\obj\Debug\server.csproj.AssemblyReference.cache
+C:\Users\spoli\Desktop\Курсач\сервер\server\server\obj\Debug\server.csproj.CoreCompileInputs.cache
+C:\Users\spoli\Desktop\Курсач\сервер\server\server\obj\Debug\server.dll
+C:\Users\spoli\Desktop\Курсач\сервер\server\server\obj\Debug\server.pdb
